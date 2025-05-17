@@ -1,0 +1,10 @@
+opencv-python>=4.5.0
+numpy>=1.19.0
+gym>=0.17.0
+scipy>=1.7.0
+casadi
+open3d
+shapely
+mistralai
+matplotlib>=3.4.0 
+unitree_sdk2py>=1.0.0 
